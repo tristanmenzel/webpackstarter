@@ -1,0 +1,7 @@
+/build
+/node_modules
+/.idea/workspace.xml
+/junit.xml
+
+/.idea
+/dist
